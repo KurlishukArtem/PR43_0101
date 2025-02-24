@@ -13,4 +13,4 @@ namespace Adress43_Kurlishuk.Classes.Database
             "database=base1_ISP_21_2_8; ";
         public static readonly MySqlServerVersion version = new MySqlServerVersion(new Version(8,0,11));
     }
-}
+}  
