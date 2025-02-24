@@ -14,3 +14,4 @@ namespace Adress43_Kurlishuk.Classes.Database
         public static readonly MySqlServerVersion version = new MySqlServerVersion(new Version(8,0,11));
     }
 }  
+ 
